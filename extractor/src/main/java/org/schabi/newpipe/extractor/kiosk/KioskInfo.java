@@ -58,6 +58,8 @@ public class KioskInfo extends ListInfo<StreamInfoItem> {
         return getInfo(extractor);
     }
 
+
+
     /**
      * Get KioskInfo from KioskExtractor
      *
